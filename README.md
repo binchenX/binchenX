@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 Ask me about cloud/cloud native/kubenetes, platform product, engineering leadership/management
+- 🌱 I’m currently learning AI/LLM and its infra, vibe coding.
+- 📚[Understand Container](https://www.skyx.au/understand_container/), [Cloud Native Primer](https://www.skyx.au/cloudnativeprimer/)
