@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Ask me about cloud/cloud native/kubenetes, platform product, engineering leadership/management
+- 💬 Ask me about cloud/cloud native/kubenetes, open source, platform product, engineering leadership/management
+- ❤️ books
 - 🌱 I’m currently learning AI/LLM and its infra, vibe coding.
 - 📚[Understand Container](https://www.skyx.au/understand_container/), [Cloud Native Primer](https://www.skyx.au/cloudnativeprimer/)
